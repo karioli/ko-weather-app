@@ -1,0 +1,56 @@
+body {
+  background: #c2cfd8;
+  padding-top: 100px;
+}
+
+h1 {
+  color: #303841;
+  text-align: center;
+  font-family: "Questrial", sans-serif;
+  font-weight: bolder;
+  padding-bottom: 25px;
+}
+.card-title {
+  color: #47555e;
+  text-align: center;
+  font-family: "Questrial", sans-serif;
+}
+.card-text {
+  color: #7aa5d2;
+  text-align: center;
+}
+.form-control {
+  text-align: center;
+}
+.btn-btn-primary {
+  background: #7aa5d2;
+  font-family: "Questrial", sans-serif;
+}
+.search-button {
+  font-family: "Questrial", sans-serif;
+  margin: 5px, 5px, 5px, 5px;
+  text-align: center;
+}
+h3 {
+  color: #303841;
+  text-align: center;
+  font-family: "Questrial", sans-serif;
+}
+.card-title-5 {
+  color: #47555e;
+  text-align: center;
+  font-family: "Questrial", sans-serif;
+}
+.card-text-high {
+  font-weight: bolder;
+  color: #7aa5d2;
+  text-align: center;
+}
+.card-text-low {
+  font-weight: lighter;
+  color: #7aa5d2;
+  text-align: center;
+}
+.material-symbols-outlined {
+  display: block;
+}
